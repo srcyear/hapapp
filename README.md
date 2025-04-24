@@ -17,3 +17,4 @@ ClashNEXT是一个HarmonyOS NEXT(OpenHarmony)平台的代理软件，使用改�
 
 目前团队在入驻爱发电，对我们项目支持的朋友可以到爱发电支持
 https://afdian.com/a/Clashnext
+txt
